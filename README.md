@@ -1,5 +1,3 @@
 # Entic
 
-![](https://github.com/melvintg/entic/DCIM/img1.jpeg)
-![](https://github.com/melvintg/entic/DCIM/img2.jpeg)
-![](https://github.com/melvintg/entic/DCIM/img3.jpeg)
+<img src="DCIM/img1.jpeg" height="80%" width="50%"> <img src="DCIM/img2.jpeg" height="80%" width="50%"> <img src="DCIM/img3.jpeg" height="80%" width="50%">
